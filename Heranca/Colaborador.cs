@@ -23,5 +23,9 @@ namespace Heranca
             Console.WriteLine($"Cargo: {_cargo}");
             Console.WriteLine($"Salario: {_salario}");
         }
+        private void Colaborado()
+        {
+            Console.WriteLine("oi");
+        }
     }
 }
