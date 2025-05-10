@@ -24,5 +24,9 @@ namespace Heranca
             Console.WriteLine($"Salario: {_salario}");
         }
 
+        private void MostarAlgumacoisa(){
+            Console.WriteLine("Alguma coisa");
+        }
+
     }
 }
